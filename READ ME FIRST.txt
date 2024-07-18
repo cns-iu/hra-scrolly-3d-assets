@@ -1,0 +1,98 @@
+Hi! Welcome to HRA Scrolly 3D Assets File 
+
+This notepad file contains - 
+  1. All the file components and their purpose
+  2. Animation Keyframe Times for future changes
+
+
+
+
+___________FOLDER CONTENT___________
+
+
+
+
+1.  3D Print Models = 
+    Contains blender file of the characters (Mac, Cece & Squiggy), along 
+    with STL Files and image Reference
+
+
+2.  Asset = 
+    This folder has FBX files of kidney files received and downloaded for use.
+
+
+3.  Mail Media =
+    Outgoing Files via Mail
+
+
+4.  Models with Textures = 
+    This is the holy grail. (DO NOT MOVE ANY FILE, if you still feel like, 
+    open the file and then save it to a different location)
+
+    V2.0 Final Setup(07.03.24) - This is the original file with the entire 
+    scene, camera and texture set up. It contains all the animations 
+    and keyframes. This is the main blender file.
+
+    These files contain the rigged final characters with a full scene setup
+                  ----> [V2.0 Cece - Final Model (28.6.24)]
+                  ----> [V2.0 Mac - Final Model (28.6.24)]
+                  ----> [V2.0 Squiggy - Final Model (28.6.24)]
+
+    These files contain the final 3d characters  ----> [MAC Final Model]
+                                                 ----> [Squiggy Final Model]
+                                                 ----> [CECE Final Model]
+
+
+5. Old Models =
+   The contents are mostly rejected models and storyboards
+
+
+6. Resources = 
+   This is also the holy grail. (DO NOT MOVE ANY FILE)
+   HDRI - Environment Textures that are directly connected to the main blender file.
+   Textures - All textures, all are connected to the main blender file.
+
+
+7. Rigged Character =
+   Contains all rigged characters (older version)
+   The 'Final Rigged Model' Folder contains the final rigged characters without a BG setup.
+
+
+8. Test Renders = 
+   All video renders, image sequences and test renders are in this folder.
+
+
+
+
+
+___________ANIMATION KEYFRAMES___________
+
+Imp. Notes---
+
+ 1. Three Lights Layers 
+    - 'LIGHTS' = Contains the main scene lights
+    - 'ACTING LIGHTS' = These lights start after the camera goes close to the kidney
+    - 'AFTER LIGHTS' = These lights also start when the kidney is closer
+
+Important Keyframes 
+
+
+65-90 = ('Lights' switch on)
+60-74 = Cece Bounce
+60-71 = Squiggy Bounce
+100-120 = Depth of Field Toggle
+220-280 = Camera Zoomin
+145-170 = Orbit of the small yellow cube
+380 - orbit disappears
+
+470 - kindey capsule partial trans
+485 - partial transplant
+500 - complete transparent
+500 to 515 paper appears
+515 to 530 squiggy hand movement
+530 - throws paper
+660 - paper simulation
+680 - cell start appearing
+740 - all cells are complete
+
+
